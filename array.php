@@ -2,4 +2,5 @@
 # 配列の基本について学習
 
 $data = ['山田','田中','鈴木','佐藤','高橋','伊藤'];
-print $data[3];
+print $data[3].PHP_EOL;
+print_r($data);
