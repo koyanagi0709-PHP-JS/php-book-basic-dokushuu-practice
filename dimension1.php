@@ -10,3 +10,6 @@ $data1 = [
 print_r($data1);
 
 print $data1[1][1].PHP_EOL;
+
+$data2 = [-10 => '山田','鈴木'];
+print_r($data2);
